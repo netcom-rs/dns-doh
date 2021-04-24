@@ -1,4 +1,5 @@
 var serverList = [
+	{"dname": "Netcom Solutions", "url": "https://ads.netcoms.rs/dns-query"},
 	{"dname": "Cloudflare", "url": "https://cloudflare-dns.com/dns-query"},
 	{"dname": "Google", "url": "https://dns.google.com/resolve"},
 	{"dname": "Quad9", "url": "https://dns9.quad9.net/dns-query"},
