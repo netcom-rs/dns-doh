@@ -5,6 +5,7 @@
   "license": "MIT",
   "author": "NetBlocks Team <team@netblocks.org>",
   "homepage": "https://netblocks.org/",
+  "start": "npm start",
   "keywords": [
     "dns",
     "DoH",
